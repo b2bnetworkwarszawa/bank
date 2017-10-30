@@ -18,5 +18,6 @@ public class Bank {
 	public void setNazwaBanku(String nazwaBanku) {
 		this.nazwaBanku = nazwaBanku;
 	}
+	//dodanie linijki komentarza
 
 }
