@@ -19,5 +19,7 @@ public class Bank {
 		this.nazwaBanku = nazwaBanku;
 	}
 	//dodanie linijki komentarza
+	
+	//kolejna linijak bo nie dodałam nazwy brancha dlatego pewnie nie było notyfikacji
 
 }
