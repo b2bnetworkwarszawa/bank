@@ -21,5 +21,6 @@ public class Bank {
 	//dodanie linijki komentarza
 	
 	//kolejna linijak bo nie dodałam nazwy brancha dlatego pewnie nie było notyfikacji
+	//ale jak sie jest zmeczonym to notyfikacje nie przychodza
 
 }
